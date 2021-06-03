@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A voice of the Lord to the heathen which to them is a visitation for them to turn to him who is living from all their dead handy works, which to them is an alarm sounded out of Sion.</title>
+            <author>Fox, George, 1624-1691.</author>
+         </titleStmt>
+         <extent>Approx. 18KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40317</idno><idno type="EEBO-CITATION">11132640</idno>
+  <idno type="VID">46376</idno>
+  <idno type="EEBO-PROQUEST">2240943333</idno>
+  
+            <idno type="STC">Wing F1979</idno>
+            <idno type="STC">ESTC R29435</idno>
+            <idno type="OCLC">11132640</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A40317)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 46376)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1423:32)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A voice of the Lord to the heathen which to them is a visitation for them to turn to him who is living from all their dead handy works, which to them is an alarm sounded out of Sion.</title>
+                  <author>Fox, George, 1624-1691.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Simmons,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1656.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed: G.F.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Society of Friends.</term>
+               <term type="topical_term">Conduct of life.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:46376:1"/>
+            <pb n="1" facs="tcp:46376:1"/>
+            <head>A VOICE of the LORD to the <hi>Heathen,</hi> which to them is a Visitation for them to turn to him who is living, from all their dead handy works, which to them is an a<g ref="char:EOLhyphen"/>larm sounded out of <hi>Sion.</hi>
+            </head>
+            <p>GOd that made the world, the sea, and the earth, and the dry and, the Sun and the Moon, and the Stars, and made the fish in the sea, and the fowls in the air, and clothed the earth with grass, and caused the herbs to come out of it, and trees on it to grow, yeelding their seed, and created every creeping thing upon the earth, and likewise made the Beasts of the Field, and in his own Image made man; but from his image man being fallen, he knowes not God, who is the God of the spirits of all flesh,<note place="margin">Num</note> and the light of the Lord is the breath of man, and searcheth all the bowels of the belly; but man being an enemy through the alie<g ref="char:EOLhyphen"/>nating of his minde, though the Poets can say, that in him they live, and move, and have their being, who gives them breath, which is the light of the Lord,<note place="margin">Pro<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> and yet being alienated from the life of God, and ignorance, and blindness of heart, and their un<g ref="char:EOLhyphen"/>derstanding being darkned, walking after the vanity of their mind, serving and worshipping the creature more than the Creator, who is God blessed for ever, and setting up those things to bee gods that are not, worshipping the works of your own hands, that which your fingers have made, <hi>Imag<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s</hi> of Males, or <hi>Images</hi> of Fe<g ref="char:EOLhyphen"/>males, or <hi>Images</hi> of the Sun or the Moon, in the mean while and time are ignorant through the alienating of your mindes from the true God, that made the Sun, and all creatures upon the earth, for this the living God requires, that man should come to the true knowledge of him, and the Sun, the Stars, the Moon, the day and the night, and by his covenant keeps night in its season, and day in its season, by whose word were all things made, and by whose word and power is all things upheld, who requires to Worship
+<pb n="2" facs="tcp:46376:2"/> him in the spirit, who is a spirit, who is the God of the Spirits of all flesh, whose light is the breath of man; <hi>I am the light of the world</hi> (saith <hi>Christ) and doth inlighten every man that cometh into the world,</hi> by <hi>whom</hi> it was made, Christ Jesus the saviour of your souls; now this is the light which you are lighted withall, which tells you when you do wrong, and not the thing that is righteous; and you know with that when you have wronged any one, and broken pro<g ref="char:EOLhyphen"/>mise, and told a thing that is not so, there is something riseth in you that is a witness against you, and that is the light, and that is it which will bring you to feel after God, him that created all things, and made all things, the sea, the Earth, the stars, the sun, the moon, the creeping things upon the earth, that which brings you to feel after him, is that which lets you see when you do not the thing that is righteous, when you break pro<g ref="char:EOLhyphen"/>mise, that of God manifest in you, that will bring you to look be<g ref="char:EOLhyphen"/>yond the Sun, beyond the earth, beyond the stars, beyond all crea<g ref="char:EOLhyphen"/>tures, beyond all the elements, and the moon and day and night; for this gives to see him and his covenant, which keeps day and night in its season; and this light is it which brings you for Wor<g ref="char:EOLhyphen"/>shipping or bovving to any thing you have made vvith your ovvn hands, for that the living God forbids, who is one with the light in you, which light is it which brings to know him, and to worship God who is light, and where there is no darkness; and the Lord God who is the spirit of all flesh, whose light is the breath of man, he that made the sea, and the earth, and the firmament, and set the greater light to rule the day, and the lesser light to rule the night, vvho made the stars also, and made the fish in the sea, and clothed the earth vvith grass, and caused the trees to come out of it, yeelding its seed and bearing fruit, and created every living creature upon the earth, and man in his ovvn image; this being lost through <hi>Eve</hi> harkning to the Serpent, the most subtillest beast of the field, so going among the creatures, mangled among them, lost the <hi>image</hi> of the <hi>Creator,</hi> serving the <hi>creature</hi> more than the <hi>Creator;</hi> this God the Creator of all, the Father of spirits, the
+<pb n="3" facs="tcp:46376:2"/> spirit of all flesh, whose light is the breath of man, who upholds all things by his <hi>word</hi> and <hi>power,</hi> sent his Son into the World, he <hi>took not upon him the nature of Angels, but the seed of Abraham, who lighteth every man that cometh into the world, who is the image of the Father, and the brightness of his glory, glorified with the Father be<g ref="char:EOLhyphen"/>fore the world began, and glorified with the Father is again; him hath the Father glorified, and his name exalted above all names, at whose name shall every knee bow, who lighteth every man that cometh into the world; him who is the brightness of his glory, the glory of the Father, the express image of his substance, every man being inlightned with the light that cometh from him, that they might believe in the light, and with the light see himself, and it deny, and see his Saviour Christ from whence light comes, the image of God, the brightness of his glory, and come to worship him in the spirit and in the truth;</hi> and this <hi>light</hi> lets you see your breaking your promises, and your not doing the <hi>thing</hi> that is true one to another, this is truth in your <hi>inward parts,</hi> it cometh from <hi>Christ</hi> the truth, who is the Way to the Father the God of all truth. Now being turned to the <hi>light</hi> which comes from <hi>Christ</hi> the <hi>brightness of the glory of the</hi> Father, by whom all things were created, you are turned from <hi>serving</hi> and <hi>worshipping</hi> the creature and all Gods that cannot hear nor see; and the vani<g ref="char:EOLhyphen"/>ties of your minde the <hi>light</hi> turneth you from, and will bring you to know the life of God, the spirit of all flesh, with which spirit you come to be baptised into one body, into his body, and turned to the <hi>light,</hi> the life of God from the wicked works; which life of God is the new life, where the life is changed, and the Crea<g ref="char:EOLhyphen"/>tor sees, which creates to <hi>good works, him whose works are perfect;</hi> but man out of the <hi>light</hi> out of him, a <hi>stranger</hi> to his life, an ene<g ref="char:EOLhyphen"/>my through the alienating of his minde, his works are evill, his works are wicked in himself and not <hi>wrought</hi> in God; and while you are in the <hi>breaking</hi> of promises, and <hi>doing a thing</hi> which is not true; there is a Witness in you that witnesseth against you, and that is the <hi>light,</hi> which if you love it, and <hi>bring your works</hi> to it, you will see whether they be <hi>wrought in God;</hi> but when you hate it, and
+<pb n="4" facs="tcp:46376:3"/> your <hi>works</hi> are evill, they are not <hi>wrought in God,</hi> this will be your condemnation (saith Christ) the <hi>light,</hi> by whom the world was made, the sea, the earth, the sun and the moon, and all creatures created by him upon the earth, and the fish in the sea, and the fowls of the air; God that created these (who placed man upon the earth, and <hi>gave</hi> unto him life and breath) <hi>gave</hi> unto him all things, the Lord of all Sea and Land and Trees and Fowls of the air and Beasts of the Field and Cattel, and set the Sun in the fir<g ref="char:EOLhyphen"/>mament to rule the day, and the Moon to rule the night; who is Lord of all heaven and earth, beyond Sun and Moon, and before they vvere; and before the earth vvas, or the earth and the sea vvas divided, or any creature created; vvho measures the Waters in the hollovv of his hand and vveigheth the earth in scales; be<g ref="char:EOLhyphen"/>fore vvhom all Nations is but as a drop of a Bucket, vvho novv is come and rules among his sons and daughters, upon whom hee hath poured forth his spirit (such as bee in his <hi>image</hi>) among <hi>whom</hi> his name is dreadful and wonderful, who witness the name above euery name, by whom all the Families of <hi>heaven</hi> and <hi>earth was na<g ref="char:EOLhyphen"/>med, which lighteth every man that cometh into the world,</hi> which <hi>light</hi> will let him see when he doth not the thing which is <hi>righteous,</hi> and when he doth the thing which is <hi>unrighteous;</hi> which if you harken to that light, you will come to see the Law of our God which created all things, and you wil come to that which is truth that will bring to serve God, the God that is the God of all truth, and worship him in spirit and in truth, his Word is now gone out of Jerusalem, and his Law out of Sion, and a trumpet is founded out of Sion to all the inhabitants of the earth; Therefore all ye hea<g ref="char:EOLhyphen"/>then every where, fear and dread the name of the <hi>mighty God,</hi> the Creator of heaven and earth, who hath given to you strength and breath, and life, and the fulness of the creatures, and plenty of the creatures: The Creator of them calls to you for the knowledge of himself, and for you to turn from the vanities of your minde, that you might come to know his life, and serve him your Crea<g ref="char:EOLhyphen"/>tor, who hath sent his son to inlighten every one of you that com<g ref="char:EOLhyphen"/>eth
+<pb n="5" facs="tcp:46376:3"/> into the World, who is the Way to him, who is the Image of him, the brightness of him, yea of his glory; and this is the <hi>light</hi> which he hath <hi>lighted</hi> you withall, that lets you see <hi>unrighteous<g ref="char:EOLhyphen"/>ness, truce-breaking,</hi> and when you do the <hi>thing</hi> which is not <hi>right;</hi> this <hi>light</hi> in you lets you see, that is a Witness against you when you do the thing that is evill, which is it that shews you that; this is it, this before mentioned is the <hi>light</hi> that comes from the <hi>Image</hi> of the Father, who is the brightness of his <hi>Glory,</hi> which none of you come to see the <hi>Image</hi> of the <hi>Creator,</hi> but as you love that prin<g ref="char:EOLhyphen"/>ciple that shewes you when you do the thing that is <hi>unrighteous,</hi> for that comes from him who is the Son of <hi>God,</hi> who is <hi>Gods righ<g ref="char:EOLhyphen"/>teousness,</hi> and this <hi>light</hi> bringing you to the <hi>Image</hi> of the Son, and this <hi>light which is righteous</hi> lets you see the <hi>unrighteous,</hi> bringeth you to <hi>worship God in Spirit</hi> and in <hi>truth,</hi> bringeth you from <hi>worship<g ref="char:EOLhyphen"/>ping</hi> all other <hi>Gods,</hi> bringeth you from all the <hi>works</hi> of your owne hands, and bringeth you from all changeable <hi>worships,</hi> or <hi>worship<g ref="char:EOLhyphen"/>ping</hi> any changeable thing, the spirit, the light, with vvhich you come to Witness the spirit of the living <hi>God</hi> vvhich brings to him that doth not change in the spirit and in the truth; and this brings to serve the Creator and Worship him; and he saith, Thou shalt not make to thy self any Graven image, or the likeness of any thing in heaven or in earth, or in the Waters under the earth, or bovv dovvn to them; for I the Lord God, vvho is the <hi>God of all Spirits, God</hi> of the spirits of all flesh, vvho creates man upon the earth, and puts his spirit into him, and placed him upon earth, vvho hath given his <hi>Son</hi> for a Covenant, a Light to lighten the <hi>Gentiles,</hi> with which light you that be Heathen shall come to the knowledge of the Lord with the Light of his <hi>Son</hi> who hath light<g ref="char:EOLhyphen"/>ed you, who is the <hi>way</hi> to the Father of Light, whose majesty &amp; Glory is now arising, whose dominion is now seen, that which is without end, whose Government is now come, who bears it upon his own shoulders, where righteousness shal run down, truth and mercy and peace shall meet, and the founder of the image, and the worshipper of the image shall be confounded with the power
+<pb n="6" facs="tcp:46376:4"/> of the <hi>living God,</hi> who will now be worshipped in Spirit and in truth: I the Lord formed the Light, and created Darkness, make peace, and create evil; I have made the earth, and created man up<g ref="char:EOLhyphen"/>on it; I, even my hand hath stretched it self upon it, and all the Host have I commanded; and thou O Lord art Worthy to receive <hi>Glory,</hi> and <hi>Honour,</hi> and <hi>Power,</hi> for thou hast created all things, and for thy pleasure they are, and were created; and he that created the heavens, and the things therein, and the earth, and the things therein, is him that liveth for ever, <hi>who will be worshipped in spirit and truth,</hi> and who is now Worshipped in spirit and truth, the Creator, God blessed for ever, over all the creatures hath given his children who be in his <hi>Image,</hi> the <hi>Image</hi> of his Son, Dominion over all, which the Creator hath made and created in the <hi>Image</hi> of the Creator; and none comes to this but who comes to the <hi>Light,</hi> the <hi>Image</hi> of his Son, who is the Brightness and Glory of the Father, the express <hi>Image</hi> of his Substance, whose <hi>Image</hi> an<g ref="char:EOLhyphen"/>swereth the <hi>Righteous Light</hi> in every one of you; which <hi>image</hi> will deface all your <hi>images</hi> and <hi>likenesses,</hi> and doth break them down: And here the Standard of the Lord shall be Witnessed, set up and Established, from which <hi>Righteousness</hi> and <hi>Iudgement</hi> shall run down, which makes things savory to God, wherein the Offer<g ref="char:EOLhyphen"/>ing is seen that is offered in <hi>Righteousness</hi> to the <hi>Righteous God,</hi> which none offers this <hi>Offering</hi> in <hi>Righteousness,</hi> but such as are turned to the <hi>Light,</hi> Gods <hi>Righteousness,</hi> who is the <hi>way</hi> to the Fa<g ref="char:EOLhyphen"/>ther: And such as love this Light, and to it are turned; they are turned from the <hi>Unrighteousness,</hi> with the <hi>righteous</hi> to the <hi>righteous,</hi> from this the sacrifice is offered in <hi>righteousness</hi> to the <hi>Righteous God;</hi> and all them that are in the Unrighteousness, in the likeness, hates the <hi>Light which comes from Christ</hi> the <hi>Image</hi> of the Father, the <hi>righteousn<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ss</hi> of God, they that offer their offering is not in righ<g ref="char:EOLhyphen"/>teousness, but in the Unrighteousness, that God never accepted; and all the Offerings that were offered out of the Light, God ne<g ref="char:EOLhyphen"/>ver had respect to; for the living God is not in the thoughts of such as they that forget him, whose throats are an open Sepulchre,
+<pb n="7" facs="tcp:46376:4"/> drinking iniquity as the Ox drinks Water, fill'd with unrighteous<g ref="char:EOLhyphen"/>ness, these all act contrary to the Light w<seg rend="sup">ch</seg> comes from <hi>Christ</hi> Gods Righteousness, such be in fury and rage, <hi>Cains</hi> way, rage the hea<g ref="char:EOLhyphen"/>then which be from the Light, from God, who is Light, who can<g ref="char:EOLhyphen"/>not offer an Offering in righteousness, nor none can but who owns the Light which comes from <hi>Christ</hi> Gods Righteousness offers an offering in righteousness which he hath respect to.</p>
+            <p>TRemble oh you mean Countenance! Oh tremble, oh you mean countenance! you heathen that know not God, the glittering Sword is drawn, furbushed, hangs over your heads, is shaken and glitters, who worshipped the Host of Heaven; the Host of the Lord, the Lords Host is coming upon you with glit<g ref="char:EOLhyphen"/>tering Swords; fearfulness, and shaking, and trembling shall there be among you, the day of the mighty God is dawning, and the Glory of the mighty God is rising, and the God of the world shall be judged; and the Prince of the Power of the Air by, and with the Power of Truth, and all Idol-Worshippers shall be confoun<g ref="char:EOLhyphen"/>ded; you which have worshipped Idols shall be overthrown; the Lord will get himself a Name, the Heathen shall know it, for the uttermost parts of the earth is his Seeds possession; he that sits upon the Throne of <hi>David</hi> shall reign; the great Lyon and the yong Lyon, the Dragon and the old Serpent, all shall couch be<g ref="char:EOLhyphen"/>fore him, him who bruiseth the Head of the Serpent, and destroys death which hath reigned: You Islands shall quake like leaves, and the main continent, your hearts shall fail, Knees Knocking to<g ref="char:EOLhyphen"/>gether, and feebleness for fear of the Glory of the Lord, who is now rising to shake terribly the earth, and to cleanse it, and send<g ref="char:EOLhyphen"/>ing forth into his Vineyard to dress it, and such as have the ground cumbred will he cut down and cast into the fire. Awake you Kings, Princes and Dominions, for you are but as the Air, the glit<g ref="char:EOLhyphen"/>tering sword hangs over your heads of the Almighty.</p>
+            <pb n="8" facs="tcp:46376:5"/>
+            <p>You mean countenance which have been under the <hi>power</hi> of darkness, worshipping the Prince of the air, the <hi>power</hi> of dark<g ref="char:EOLhyphen"/>ness, and served the <hi>God of the world,</hi> been under the <hi>power</hi> of the prince of the air, <hi>God</hi> will overthrovv your <hi>dominion</hi> and <hi>power</hi> and <hi>Princes</hi> vvith his ovvn <hi>power</hi> and <hi>dominion,</hi> vvhose name vvill be glorified among the Heathen that knovv not <hi>God,</hi> that made the sea, the earth, and all things therein, vvho is Lord of all, the Fa<g ref="char:EOLhyphen"/>ther of spirits, <hi>who will be Worshipped with that.</hi>
+            </p>
+            <p>This to the Heathen is a Message, the great and mean counte<g ref="char:EOLhyphen"/>nance, and you are withering, and fearfulness is coming; ah, have you liued at ease? now is the dread of the Lord God coming a<g ref="char:EOLhyphen"/>mong you, now is the Trumpet sounded, that <hi>God</hi> will haue a sa<g ref="char:EOLhyphen"/>crifice.</p>
+            <closer>
+               <signed>G. F.</signed>
+            </closer>
+         </div>
+         <trailer>The End.</trailer>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London:</hi> Printed for <hi>Thomas Simmons</hi> at the sign of the <hi>Bull and Mouth</hi> neer Aldersgate. <hi>1656.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
